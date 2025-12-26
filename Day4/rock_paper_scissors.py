@@ -19,6 +19,3 @@ elif user_choice in choices:
     print("You lose!")
 else:
     print("Invalid input!")
-
-
-
